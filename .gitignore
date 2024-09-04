@@ -5,8 +5,8 @@ VENV/
 
 DEV--README.md
 # ignore vendor static files
-src/staticfiles/vendors
-Git-Clone/
+staticfiles/vendors
+
 
 # ignore local static file root
 # or "local cdn"
